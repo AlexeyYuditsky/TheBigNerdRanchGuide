@@ -1,0 +1,1 @@
+This repository represents all listings of The Big Nerd Ranch Guide and contains all solved exercises
